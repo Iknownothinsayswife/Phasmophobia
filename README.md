@@ -2,6 +2,10 @@
 
 An interactive evidence table for Phasmophobia that helps track ghost evidence and narrow down ghost types.
 
+## Quick Access
+You can use the application directly in your browser:
+[Open Phasmophobia Evidence Table](https://iknownothinsayswife.github.io/Phasmophobia/)
+
 ## Features
 - Interactive evidence selection
 - Real-time ghost type filtering
