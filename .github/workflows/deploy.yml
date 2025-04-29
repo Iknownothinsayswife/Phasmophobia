@@ -60,4 +60,5 @@ jobs:
           commit_message: "Deploy: ${{ github.event.head_commit.message }}"
           force_orphan: true
           enable_jekyll: false
-          publish_branch: main
+          publish_branch: gh-pages
+          destination_dir: .
